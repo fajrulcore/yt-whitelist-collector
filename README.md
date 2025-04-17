@@ -13,7 +13,7 @@
 
 ####  Opsi 1 — Install Otomatis (Langsung Klik)
 Klik link berikut untuk langsung menginstall script:
-- [Install yt-whitelist-collector](https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.js)
+- [Install yt-whitelist-collector](https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.user.js)
 
 > Pastikan browser kamu sudah terpasang **Tampermonkey**, lalu klik **Install** saat diminta.
 

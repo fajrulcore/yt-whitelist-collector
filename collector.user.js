@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         YT Whitelist Collector
 // @namespace    https://github.com/fajrulcore/yt-whitelist-collector
-// @version      1.1
+// @version      1.2
 // @description  Collecting whitelist links from YouTube Watch Later
 // @author       fajrulcore
 // @match        https://www.youtube.com/playlist?list=WL
-// @updateURL    https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.js
-// @downloadURL  https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.js
+// @updateURL    https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.user.js
+// @downloadURL  https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.user.js
 // @grant        none
 // ==/UserScript==
 
