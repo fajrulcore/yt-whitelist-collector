@@ -5,6 +5,7 @@
 // @description  Collecting whitelist links from YouTube Watch Later
 // @author       fajrulcore
 // @match        https://www.youtube.com/playlist?list=WL
+// @match        https://m.youtube.com/playlist?list=WL
 // @updateURL    https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.user.js
 // @downloadURL  https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.user.js
 // @grant        none
