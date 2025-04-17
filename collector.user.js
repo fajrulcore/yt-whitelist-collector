@@ -1,11 +1,10 @@
 // ==UserScript==
-// @name         YT Whitelist Collector
+// @name         YT Whitelist Collector (desktop)
 // @namespace    https://github.com/fajrulcore/yt-whitelist-collector
-// @version      1.3
-// @description  Collecting whitelist links from YouTube Watch Later
+// @version      1.4
+// @description  Collect whitelist links from YouTube Watch Later easily, support version for Chrome & Firefox Desktop
 // @author       fajrulcore
 // @match        https://www.youtube.com/playlist?list=WL
-// @match        https://m.youtube.com/playlist?list=WL
 // @updateURL    https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.user.js
 // @downloadURL  https://raw.githubusercontent.com/fajrulcore/yt-whitelist-collector/main/collector.user.js
 // @grant        none
