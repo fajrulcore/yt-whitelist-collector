@@ -1,11 +1,8 @@
-# yt-whitelist-collector
-
-## Choose Language / Pilih Bahasa
-
+#### Choose Language
 - [English](#english)
 - [Bahasa Indonesia](#bahasa-indonesia)
 
-## English
+## 🇬🇧 English
 
 **yt-whitelist-collector** is a simple **Tampermonkey script** that can **collect YouTube video links from whitelist playlists**. This script automatically captures the link when you click the **Download WL URL** button that appears in the bottom right corner of the playlist page, then downloads it in **.txt** format.
 
@@ -13,7 +10,7 @@
 
 ## Installation
 
-### Prerequisites:
+### 📌 Prerequisites:
 - A browser that has the **[Tampermonkey](https://www.tampermonkey.net/)** extension installed.
 
 ### Install Options:
@@ -57,7 +54,7 @@ https://www.youtube.com/playlist?list=WL
 ---
 
 
-## Bahasa Indonesia
+## 🇮🇩 Bahasa Indonesia
 
 **yt-whitelist-collector** adalah sebuah **script Tampermonkey** sederhana yang berfungsi untuk **mengumpulkan link video YouTube dari playlist whitelist**. Script ini secara otomatis menangkap link saat kamu klik tombol **Download URL WL** yang muncul di pojok kanan bawah halaman playlist, lalu mengunduhnya dalam format **.txt**.
 
@@ -65,7 +62,7 @@ https://www.youtube.com/playlist?list=WL
 
 ##  Instalasi
 
-### Prasyarat:
+### 📌 Prasyarat:
 - Browser yang sudah terpasang **[Tampermonkey](https://www.tampermonkey.net/)** extension.
 
 ###  Pilihan Cara Install:
