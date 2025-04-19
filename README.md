@@ -9,7 +9,7 @@
 
 **yt-whitelist-collector** is a simple **Tampermonkey script** that works to **collect YouTube video links from whitelist playlists**. This script automatically captures the link when you click the **Download WL URL** button that appears in the bottom right corner of the playlist page, then downloads it in **.txt** format.
 
-## 📥 Installation
+## Installation
 
 ### Prerequisites:
 - A browser that has the **[Tampermonkey](https://www.tampermonkey.net/)** extension installed.
@@ -38,16 +38,15 @@ Click the following link to directly install the script:
 4. Click **Install**.
 5. Go to the **YouTube Whitelist** page — the script will be activated automatically.
 
-## 🎥 Video Tutorial
+## Video Tutorial
 
 To make it easier to understand the installation and usage process, you can watch the following video tutorial:
 
-- 📺 [Desktop Version Tutorial](https://youtu.be/eZTukxvUpUc)
-- 📺 [Android Version Tutorial](https://youtube.com/shorts/MZ0c8IGCiQQ?feature=share)
+- [Desktop Version Tutorial](https://youtu.be/eZTukxvUpUc)
+- [Android Version Tutorial](https://youtube.com/shorts/MZ0c8IGCiQQ?feature=share)
 
-> Replace `URL-DESKTOP-VERSION-HERE` and `URL-ANDROID-VERSION-HERE` with your own video tutorial URL later.
 
-## 📑 How to Use
+## How to Use
 
 1. Open the YouTube whitelist playlist page:
 https://www.youtube.com/playlist?list=WL
@@ -55,7 +54,7 @@ https://www.youtube.com/playlist?list=WL
 3. Click the button.
 4. The list of video links will be automatically downloaded in the **.txt** file.
 
-## 📝 Note
+## Note
 
 - If the **Download WL URL** button does not appear for 3 seconds, **refresh** the playlist page until the button appears.
 - Make sure your whitelist playlist contains videos so that the links can be collected correctly.
@@ -67,7 +66,7 @@ https://www.youtube.com/playlist?list=WL
 
 **yt-whitelist-collector** adalah sebuah **script Tampermonkey** sederhana yang berfungsi untuk **mengumpulkan link video YouTube dari playlist whitelist**. Script ini secara otomatis menangkap link saat kamu klik tombol **Download URL WL** yang muncul di pojok kanan bawah halaman playlist, lalu mengunduhnya dalam format **.txt**.
 
-## 📥 Instalasi
+## Instalasi
 
 ### Prasyarat:
 - Browser yang sudah terpasang **[Tampermonkey](https://www.tampermonkey.net/)** extension.
@@ -96,16 +95,15 @@ Klik link berikut untuk langsung menginstall script:
 4. Klik **Install**.
 5. Buka halaman **YouTube Whitelist** — script akan aktif otomatis.
 
-## 🎥 Video Tutorial
+## Video Tutorial
 
 Agar lebih mudah memahami proses instalasi dan penggunaannya, kamu bisa tonton video tutorial berikut:
 
 - 📺 [Tutorial Desktop Version](https://youtu.be/eZTukxvUpUc)
 - 📺 [Tutorial Android Version](https://youtube.com/shorts/MZ0c8IGCiQQ?feature=share)
 
-> Ganti `URL-DESKTOP-VERSION-DISINI` dan `URL-ANDROID-VERSION-DISINI` dengan URL video tutorial milikmu nanti.
 
-## 📑 Cara Menggunakan
+## Cara Menggunakan
 
 1. Buka halaman playlist whitelist YouTube:
    https://www.youtube.com/playlist?list=WL
@@ -113,7 +111,7 @@ Agar lebih mudah memahami proses instalasi dan penggunaannya, kamu bisa tonton v
 3. Klik tombol tersebut.
 4. Daftar link video akan otomatis diunduh dalam file **.txt**.
 
-## 📝 Catatan
+## Catatan
 
 - Jika tombol **Download URL WL** tidak muncul selama 3 detik, **refresh** halaman playlist hingga tombolnya muncul.
 - Pastikan playlist whitelist kamu berisi video agar link dapat dikumpulkan dengan benar.
